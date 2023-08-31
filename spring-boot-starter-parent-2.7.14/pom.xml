@@ -24,8 +24,8 @@
 
     <modules>
         <module>config-service-2.7.14</module>
-        <module>eureka-server-2-7-14</module>
-        <module>gateway-service-2-7-14</module>
+        <module>eureka-server-2.7.14</module>
+        <module>gateway-service-2.7.14</module>
         <module>payment-service-2.7.14</module>
         <module>user-service-2.7.14</module>
     </modules>
